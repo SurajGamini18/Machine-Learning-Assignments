@@ -1,6 +1,6 @@
 # Machine-Learning-Assignments
 ## Table of Contents
-- [ML Assignment 1]()
+- [ML Assignment 1](https://github.com/SurajGamini18/Machine-Learning-Assignments/tree/main/Assignment-1%20src)
 ## Student Details:
 ### Student Id: 700744962
 ### Name: Venkata Suraj Gamini
