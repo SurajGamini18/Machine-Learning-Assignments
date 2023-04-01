@@ -20,7 +20,7 @@ Document Describing about Assignment 1
 
 ## Video
 Video on demonstrating the Assignment 1  
-[Video](https://drive.google.com/file/d/1pLA2XbeIBNCw_B_a4mBcUtrrWZtLhiSt/view?usp=share_link)
+[Video](https://drive.google.com/file/d/1pLA2XbeIBNCw_B_a4mBcUtrrWZtLhiSt/view?usp=share_link) 
 
 
 ## Short Description of Assignment 2:
@@ -33,9 +33,9 @@ Machine Learning Assignment 2 is about implementing the following concepts.
   
 ## Document
 Document describing about Assignment 2
-[Document](https://docs.google.com/document/d/1mJ8Iyplzn8-jGVT8GgT-55vzVA6RsA3E/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+[Document](https://docs.google.com/document/d/1mJ8Iyplzn8-jGVT8GgT-55vzVA6RsA3E/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true) 
 
 ## Video
 Video on demonstrating the Assignment 2
-[Video](https://drive.google.com/file/d/1J5P18c89C1jFWtsOnr46dBACyyYvu0T6/view?usp=share_link)
+[Video](https://drive.google.com/file/d/1J5P18c89C1jFWtsOnr46dBACyyYvu0T6/view?usp=share_link) 
 
