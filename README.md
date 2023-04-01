@@ -15,12 +15,10 @@ Machine Learning Assignment 1 is done completely using PyCharm IDE. This Assignm
 Implemented KNN Classifier Algorithm and also calculated Accuracy, Sensitivity and Specificity.
 
 ## Document
-Document Describing about Assignment 1  
-[Document](https://docs.google.com/document/d/1gls-qOcyWulHMRlIBIFXydakF2ZlxLXF/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+[Document Describing about Assignment 1](https://docs.google.com/document/d/1gls-qOcyWulHMRlIBIFXydakF2ZlxLXF/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
 
 ## Video
-Video on demonstrating the Assignment 1  
-[Video](https://drive.google.com/file/d/1pLA2XbeIBNCw_B_a4mBcUtrrWZtLhiSt/view?usp=share_link) 
+[Video on demonstrating the Assignment 1](https://drive.google.com/file/d/1pLA2XbeIBNCw_B_a4mBcUtrrWZtLhiSt/view?usp=share_link) 
 
 
 ## Short Description of Assignment 2:
@@ -32,12 +30,10 @@ Machine Learning Assignment 2 is about implementing the following concepts.
   5 Number of Upper and Lower case letters: In this program a string will be given as input and the number of upper and lower case letters is determined by sum(), islower() and isupper() funtion.
   
 ## Document
-Document describing about Assignment 2
-[Document](https://docs.google.com/document/d/1mJ8Iyplzn8-jGVT8GgT-55vzVA6RsA3E/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true) 
+[Document describing about Assignment 2](https://docs.google.com/document/d/1mJ8Iyplzn8-jGVT8GgT-55vzVA6RsA3E/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true) 
 
 ## Video
-Video on demonstrating the Assignment 2
-[Video](https://drive.google.com/file/d/1J5P18c89C1jFWtsOnr46dBACyyYvu0T6/view?usp=share_link) 
+[Video on demonstrating the Assignment 2](https://drive.google.com/file/d/1J5P18c89C1jFWtsOnr46dBACyyYvu0T6/view?usp=share_link) 
 
 
 ## Short Description of Assignment 3:
@@ -45,8 +41,8 @@ Machine Learning assignment 3 is about implementing NumPy and Matplotlib. NumPy 
 
 
 ## Document
-Document describing about Assignment 3(https://docs.google.com/document/d/16_4ZRhFIYc8j2xhR92ud8VRJXoduls7T/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+[Document describing about Assignment 3](https://docs.google.com/document/d/16_4ZRhFIYc8j2xhR92ud8VRJXoduls7T/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
 
 ## Video
-Video on demonstrating the Assignment 3(https://drive.google.com/file/d/1zvOtCGmY4RmPuZp8DS4FjF0magIFzT1Y/view?usp=share_link)
+[Video on demonstrating the Assignment 3](https://drive.google.com/file/d/1zvOtCGmY4RmPuZp8DS4FjF0magIFzT1Y/view?usp=share_link)
 
