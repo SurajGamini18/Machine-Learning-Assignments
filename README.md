@@ -47,3 +47,14 @@ Machine Learning assignment 3 is about implementing NumPy and Matplotlib. NumPy 
 ## Video
 [Video on demonstrating the Assignment 3](https://drive.google.com/file/d/1zvOtCGmY4RmPuZp8DS4FjF0magIFzT1Y/view?usp=share_link)
 
+
+## Short Descreption of Assignemnt 4:
+Machine Learning assignment 4 is about classification. Classification in supervised Machine Learning (ML) is the process of predicting the class or category of data based on predefined classes of data that have been 'labeled'. Labeled data is data that has already been classified.
+
+
+## Document
+[Document describing about Assignment 4](https://docs.google.com/document/d/1dt3tP45_7Y4KjZLXZvRirgOxRBtlC9gi/edit?usp=share_link&ouid=115006250578410786078&rtpof=true&sd=true)
+
+## Video
+[Video on demonstrating the Assignment 4](https://drive.google.com/file/d/1wMsarJVLwc2-DJXM_D_wo8HH3q5rlGRH/view?usp=share_link)
+
